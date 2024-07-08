@@ -2,10 +2,10 @@
   "name": "Todolist",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://evgeniy-varlamov.github.io/TodoList-React",
+  "homepage": "https://evgeniy-varlamov.github.io/TodoList-for-MINDBOX/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Evgeniy-Varlamov/TodoList-React.git"
+    "url": "git+git@github.com:Evgeniy-Varlamov/TodoList-for-MINDBOX.git"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",

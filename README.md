@@ -1,6 +1,6 @@
 # Тестовое задание (Todolist React)
 
-[Сыылка на GithubPage](https://evgeniy-varlamov.github.io/TodoList-React/)
+[Сыылка на GithubPage](https://evgeniy-varlamov.github.io/TodoList-for-MINDBOX/)
 
 Данный проект был разработан при помощи [Create React App](https://github.com/facebook/create-react-app).
 
